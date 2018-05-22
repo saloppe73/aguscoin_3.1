@@ -19,8 +19,8 @@ sudo apt-get install librocksdb-dev
 ```
 ##### Building
 ```
-git clone https://github.com/saloppe73/aguscoin_3.0.git
-cd aguscoin_3.0
+git clone https://github.com/saloppe73/aguscoin_3.1.git
+cd aguscoin_3.1
 mkdir build && cd build && cmake .. && make
 ```
 
@@ -49,8 +49,8 @@ The binaries will be in `/build/src` after compilation is complete.
 
 ##### Building
 ```
-git clone https://github.com/saloppe73/aguscoin_3.0.git
-cd aguscoin_3.0
+git clone https://github.com/saloppe73/aguscoin_3.1.git
+cd aguscoin_3.1
 mkdir build && cd build && cmake .. && make
 ```
 
