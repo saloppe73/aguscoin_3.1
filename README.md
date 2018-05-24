@@ -1,6 +1,6 @@
-### 3.0 -> 3.1
+### Version 3.0 -> Version 3.1
 
--some additional custom rpc commands 4 daemon
+- some additional rpc 4 daemon (enable blockchainexplorer)
 
 ### Linux (Debian/Ubuntu/Mint)
 
@@ -21,7 +21,7 @@ sudo apt-get install librocksdb-dev
 ```
 git clone https://github.com/saloppe73/aguscoin_3.1.git
 cd aguscoin_3.1
-mkdir build && cd build && cmake .. && make
+mkdir build && cd build && cmake .. && make -i
 ```
 
 The binaries will be in `/build/src` after compilation is complete.
