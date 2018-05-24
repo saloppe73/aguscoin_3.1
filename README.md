@@ -21,7 +21,7 @@ sudo apt-get install librocksdb-dev
 ```
 git clone https://github.com/saloppe73/aguscoin_3.1.git
 cd aguscoin_3.1
-mkdir build && cd build && cmake .. && make -i
+mkdir build && cd build && cmake .. && make
 ```
 
 The binaries will be in `/build/src` after compilation is complete.
